@@ -1,10 +1,6 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# 3D Snippets #1
 
-```
-yarn
-yarn dev
-```
+![Video Thumbnail](https://github.com/wass08/wawa-coastal-aesthetics/assets/6551176/dbe9ef8d-a719-4159-a9fd-ea642d1338df)
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+[Video](https://youtu.be/fkxzkcPTDpo)
